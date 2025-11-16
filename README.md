@@ -60,3 +60,35 @@ git clone <URL_DO_REPOSITORIO>
 3. Compile e execute a aplicação
 4. Teste no Program.cs ou integre com Forms
 
+## Boas Práticas Seguidas
+
+- Uso de propriedades privadas para encapsulamento.
+
+- Getters públicos para leitura segura.
+
+- Construtor protegido em Alojamento para permitir herança.
+
+- Métodos públicos para lógica de negócio (taxas, classificação).
+
+- Preparado para expansão de classes e integração com UI.
+
+## Próximos Passos / Funcionalidades Futuras
+
+- Implementar classe Reserva para associar clientes a alojamentos.
+
+- Adicionar validações mais avançadas (emails, campos obrigatórios, preços válidos).
+
+- Criar outras subclasses de Alojamento (Apartamento, Hostel, AlojamentoRural).
+
+- Desenvolver interface Forms para cadastro e consulta de clientes e alojamentos.
+
+- Adicionar persistência de dados (arquivo ou banco de dados).
+
+- Gerar relatórios e dashboards para análise de ocupação e faturamento.
+
+- Implementar testes
+
+## Licença
+
+MIT License – Sinta-se à vontade para usar, modificar e distribuir este projeto.
+
