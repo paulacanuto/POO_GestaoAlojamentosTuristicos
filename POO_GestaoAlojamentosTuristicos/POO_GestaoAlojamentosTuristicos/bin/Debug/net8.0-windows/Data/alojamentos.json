@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Endereco": "Meli\u00E1 Macei\u00F3",
+    "PrecoPorNoite": 70
+  },
+  {
+    "Id": 2,
+    "Endereco": "Hotel Ponta Verde",
+    "PrecoPorNoite": 52
+  }
+]

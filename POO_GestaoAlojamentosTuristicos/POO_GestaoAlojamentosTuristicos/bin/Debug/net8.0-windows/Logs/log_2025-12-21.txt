@@ -1,0 +1,27 @@
+[2025-12-21 17:08:59] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-21 17:08:59] [INFO] Aplicação iniciando...
+[2025-12-21 17:08:59] [INFO] Tela de login carregada
+[2025-12-21 17:14:33] [INFO] Login bem-sucedido: usuário 'Ana'
+[2025-12-21 17:14:35] [INFO] Abrindo sistema principal após login bem-sucedido
+[2025-12-21 17:14:36] [INFO] Aplicação iniciada
+[2025-12-21 19:32:24] [INFO] Aplicação encerrada
+[2025-12-21 19:32:24] [INFO] Aplicação encerrada normalmente
+[2025-12-21 19:32:27] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-21 19:32:27] [INFO] Aplicação iniciando...
+[2025-12-21 19:32:28] [INFO] Tela de login carregada
+[2025-12-21 19:32:42] [AVISO] Tentativa de login falhou: usuário 'Maria'. Tentativas restantes: 2
+[2025-12-21 19:33:48] [AVISO] Tentativa de login falhou: usuário 'Maria'. Tentativas restantes: 1
+[2025-12-21 19:36:33] [INFO] Login bem-sucedido: usuário 'Ana'
+[2025-12-21 19:36:56] [INFO] Abrindo sistema principal após login bem-sucedido
+[2025-12-21 19:36:56] [INFO] Aplicação iniciada
+[2025-12-21 19:50:28] [INFO] Aplicação encerrada
+[2025-12-21 19:50:28] [INFO] Aplicação encerrada normalmente
+[2025-12-21 19:50:32] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-21 19:50:32] [INFO] Aplicação iniciando...
+[2025-12-21 19:50:32] [INFO] Tela de login carregada
+[2025-12-21 19:50:37] [AVISO] Tentativa de login falhou: usuário 'sdksnks'. Tentativas restantes: 2
+[2025-12-21 19:50:41] [AVISO] Tentativa de login falhou: usuário 'sdksnks'. Tentativas restantes: 1
+[2025-12-21 19:50:49] [AVISO] Tentativa de login falhou: usuário 'sdksnks'. Tentativas restantes: 0
+[2025-12-21 19:50:49] [ERRO] Número máximo de tentativas de login excedido
+[2025-12-21 19:51:07] [INFO] Login cancelado ou falhou - aplicação encerrada
+[2025-12-21 19:51:07] [INFO] Aplicação encerrada normalmente

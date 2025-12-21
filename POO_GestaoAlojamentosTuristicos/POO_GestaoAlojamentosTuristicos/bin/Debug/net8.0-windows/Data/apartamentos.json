@@ -1,0 +1,16 @@
+[
+  {
+    "NumeroQuartos": 2,
+    "TemGaragem": true,
+    "Id": 1,
+    "Endereco": "Ap da Lua 01",
+    "PrecoPorNoite": 45
+  },
+  {
+    "NumeroQuartos": 3,
+    "TemGaragem": false,
+    "Id": 2,
+    "Endereco": "Ap da Praia",
+    "PrecoPorNoite": 57
+  }
+]

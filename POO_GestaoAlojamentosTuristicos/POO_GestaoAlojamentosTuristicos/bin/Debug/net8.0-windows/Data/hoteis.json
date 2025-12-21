@@ -1,0 +1,20 @@
+[
+  {
+    "NumeroEstrelas": 3,
+    "Id": 1,
+    "Endereco": "Hotel Ponta Verde",
+    "PrecoPorNoite": 50
+  },
+  {
+    "NumeroEstrelas": 5,
+    "Id": 2,
+    "Endereco": "Meli\u00E1 Macei\u00F3",
+    "PrecoPorNoite": 70
+  },
+  {
+    "NumeroEstrelas": 5,
+    "Id": 3,
+    "Endereco": "Pratagy Resort",
+    "PrecoPorNoite": 85
+  }
+]

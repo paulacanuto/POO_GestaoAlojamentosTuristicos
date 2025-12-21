@@ -1,0 +1,250 @@
+[2025-12-19 14:50:19] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 14:50:19] [INFO] Aplicação iniciando...
+[2025-12-19 14:50:19] [INFO] Aplicação iniciada
+[2025-12-19 14:50:19] [INFO] Carregados 0 alojamentos
+[2025-12-19 14:50:19] [INFO] Carregados 0 clientes
+[2025-12-19 14:51:05] [INFO] Aplicação encerrada
+[2025-12-19 14:51:05] [INFO] Aplicação encerrada normalmente
+[2025-12-19 14:55:59] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 14:55:59] [INFO] Aplicação iniciando...
+[2025-12-19 14:55:59] [INFO] Aplicação iniciada
+[2025-12-19 14:55:59] [INFO] Carregados 0 alojamentos
+[2025-12-19 14:55:59] [INFO] Carregados 0 clientes
+[2025-12-19 14:58:23] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 14:58:23] [INFO] Aplicação iniciando...
+[2025-12-19 14:58:23] [INFO] Aplicação iniciada
+[2025-12-19 14:58:24] [INFO] Carregados 0 alojamentos
+[2025-12-19 14:58:24] [INFO] Carregados 0 clientes
+[2025-12-19 15:00:43] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:00:43] [INFO] Aplicação iniciando...
+[2025-12-19 15:00:44] [INFO] Aplicação iniciada
+[2025-12-19 15:00:44] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:00:44] [INFO] Carregados 0 clientes
+[2025-12-19 15:02:42] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:02:42] [INFO] Aplicação iniciando...
+[2025-12-19 15:02:42] [INFO] Aplicação iniciada
+[2025-12-19 15:02:42] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:02:42] [INFO] Carregados 0 clientes
+[2025-12-19 15:03:01] [INFO] Aplicação encerrada
+[2025-12-19 15:03:01] [INFO] Aplicação encerrada normalmente
+[2025-12-19 15:03:18] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:03:18] [INFO] Aplicação iniciando...
+[2025-12-19 15:03:18] [INFO] Aplicação iniciada
+[2025-12-19 15:03:18] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:03:18] [INFO] Carregados 0 clientes
+[2025-12-19 15:03:53] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:03:53] [INFO] Aplicação iniciando...
+[2025-12-19 15:03:53] [INFO] Aplicação iniciada
+[2025-12-19 15:03:53] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:03:53] [INFO] Carregados 0 clientes
+[2025-12-19 15:05:07] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:05:07] [INFO] Aplicação iniciando...
+[2025-12-19 15:05:07] [INFO] Aplicação iniciada
+[2025-12-19 15:05:07] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:05:07] [INFO] Carregados 0 clientes
+[2025-12-19 15:05:57] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:05:57] [INFO] Aplicação iniciando...
+[2025-12-19 15:05:58] [INFO] Aplicação iniciada
+[2025-12-19 15:05:58] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:05:58] [INFO] Carregados 0 clientes
+[2025-12-19 15:08:04] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:08:04] [INFO] Aplicação iniciando...
+[2025-12-19 15:08:04] [INFO] Aplicação iniciada
+[2025-12-19 15:08:04] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:08:04] [INFO] Carregados 0 clientes
+[2025-12-19 15:08:19] [INFO] Aplicação encerrada
+[2025-12-19 15:08:20] [INFO] Aplicação encerrada normalmente
+[2025-12-19 15:08:37] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:08:37] [INFO] Aplicação iniciando...
+[2025-12-19 15:08:37] [INFO] Aplicação iniciada
+[2025-12-19 15:08:37] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:08:37] [INFO] Carregados 0 clientes
+[2025-12-19 15:08:45] [INFO] Aplicação encerrada
+[2025-12-19 15:08:45] [INFO] Aplicação encerrada normalmente
+[2025-12-19 15:08:55] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:08:55] [INFO] Aplicação iniciando...
+[2025-12-19 15:08:55] [INFO] Aplicação iniciada
+[2025-12-19 15:08:56] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:08:56] [INFO] Carregados 0 clientes
+[2025-12-19 15:10:12] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:10:12] [INFO] Aplicação iniciando...
+[2025-12-19 15:10:12] [INFO] Aplicação iniciada
+[2025-12-19 15:10:12] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:10:12] [INFO] Carregados 0 clientes
+[2025-12-19 15:10:46] [INFO] Aplicação encerrada
+[2025-12-19 15:10:46] [INFO] Aplicação encerrada normalmente
+[2025-12-19 15:13:35] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:13:35] [INFO] Aplicação iniciando...
+[2025-12-19 15:13:35] [INFO] Aplicação iniciada
+[2025-12-19 15:13:35] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:13:35] [INFO] Carregados 0 clientes
+[2025-12-19 15:14:12] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:14:12] [INFO] Aplicação iniciando...
+[2025-12-19 15:14:12] [INFO] Aplicação iniciada
+[2025-12-19 15:14:12] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:14:12] [INFO] Carregados 0 clientes
+[2025-12-19 15:14:46] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:14:46] [INFO] Aplicação iniciando...
+[2025-12-19 15:14:46] [INFO] Aplicação iniciada
+[2025-12-19 15:14:46] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:14:46] [INFO] Carregados 0 clientes
+[2025-12-19 15:15:15] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:15:15] [INFO] Aplicação iniciando...
+[2025-12-19 15:15:15] [INFO] Aplicação iniciada
+[2025-12-19 15:15:15] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:15:15] [INFO] Carregados 0 clientes
+[2025-12-19 15:15:42] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:15:42] [INFO] Aplicação iniciando...
+[2025-12-19 15:15:42] [INFO] Aplicação iniciada
+[2025-12-19 15:15:42] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:15:42] [INFO] Carregados 0 clientes
+[2025-12-19 15:17:29] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:17:29] [INFO] Aplicação iniciando...
+[2025-12-19 15:17:29] [INFO] Aplicação iniciada
+[2025-12-19 15:17:30] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:17:30] [INFO] Carregados 0 clientes
+[2025-12-19 15:28:08] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:28:08] [INFO] Aplicação iniciando...
+[2025-12-19 15:28:08] [INFO] Aplicação iniciada
+[2025-12-19 15:28:08] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:28:08] [INFO] Carregados 0 clientes
+[2025-12-19 15:28:36] [INFO] Aplicação encerrada
+[2025-12-19 15:28:36] [INFO] Aplicação encerrada normalmente
+[2025-12-19 15:33:14] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 15:33:14] [INFO] Aplicação iniciando...
+[2025-12-19 15:33:15] [INFO] Aplicação iniciada
+[2025-12-19 15:33:15] [INFO] Carregados 0 alojamentos
+[2025-12-19 15:33:15] [INFO] Carregados 0 clientes
+[2025-12-19 15:41:50] [INFO] Hotel adicionado: HoTel Meliá Maceió
+[2025-12-19 15:41:50] [INFO] Carregados 1 alojamentos
+[2025-12-19 15:49:51] [INFO] Hotel adicionado: Hotel Ponta Verde
+[2025-12-19 15:49:51] [INFO] Carregados 2 alojamentos
+[2025-12-19 15:58:36] [INFO] Apartamento adicionado: Ap. da Lua 001
+[2025-12-19 15:58:36] [INFO] Carregados 3 alojamentos
+[2025-12-19 15:58:53] [INFO] Busca por 'Maceio' retornou 0 resultados
+[2025-12-19 15:58:58] [INFO] Busca por 'Maceió' retornou 1 resultados
+[2025-12-19 15:59:17] [INFO] Carregados 3 alojamentos
+[2025-12-19 15:59:37] [INFO] Estatísticas atualizadas
+[2025-12-19 16:00:29] [ERRO] Erro ao adicionar cliente
+Exceção: Erro ao adicionar cliente.
+StackTrace:    at POO_GestaoAlojamentosTuristicos.Business.ClienteService.Adicionar(String nome, String email, String telefone)
+   at POO_GestaoAlojamentosTuristicos.UI.FormAdicionarCliente.BtnSalvar_Click(Object sender, EventArgs e)
+[2025-12-19 16:01:09] [ERRO] Erro ao adicionar cliente
+Exceção: Erro ao adicionar cliente.
+StackTrace:    at POO_GestaoAlojamentosTuristicos.Business.ClienteService.Adicionar(String nome, String email, String telefone)
+   at POO_GestaoAlojamentosTuristicos.UI.FormAdicionarCliente.BtnSalvar_Click(Object sender, EventArgs e)
+[2025-12-19 16:22:07] [INFO] Cliente adicionado: Mariana Prado
+[2025-12-19 16:22:07] [INFO] Carregados 1 clientes
+[2025-12-19 16:23:15] [ERRO] Erro ao adicionar cliente
+Exceção: Erro ao adicionar cliente.
+StackTrace:    at POO_GestaoAlojamentosTuristicos.Business.ClienteService.Adicionar(String nome, String email, String telefone)
+   at POO_GestaoAlojamentosTuristicos.UI.FormAdicionarCliente.BtnSalvar_Click(Object sender, EventArgs e)
+[2025-12-19 16:23:20] [ERRO] Erro ao adicionar cliente
+Exceção: Erro ao adicionar cliente.
+StackTrace:    at POO_GestaoAlojamentosTuristicos.Business.ClienteService.Adicionar(String nome, String email, String telefone)
+   at POO_GestaoAlojamentosTuristicos.UI.FormAdicionarCliente.BtnSalvar_Click(Object sender, EventArgs e)
+[2025-12-19 16:23:35] [INFO] Cliente adicionado: Gabriela Gama
+[2025-12-19 16:23:35] [INFO] Carregados 2 clientes
+[2025-12-19 16:24:00] [INFO] Cliente ID 2 atualizado
+[2025-12-19 16:24:00] [INFO] Carregados 2 clientes
+[2025-12-19 16:24:12] [INFO] Estatísticas atualizadas
+[2025-12-19 16:24:15] [INFO] Estatísticas atualizadas
+[2025-12-19 16:24:31] [INFO] Aplicação encerrada
+[2025-12-19 16:24:31] [INFO] Aplicação encerrada normalmente
+[2025-12-19 16:24:47] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 16:24:47] [INFO] Aplicação iniciando...
+[2025-12-19 16:24:47] [INFO] Aplicação iniciada
+[2025-12-19 16:24:47] [INFO] Carregados 0 alojamentos
+[2025-12-19 16:24:47] [INFO] Carregados 2 clientes
+[2025-12-19 16:24:57] [INFO] Carregados 0 alojamentos
+[2025-12-19 16:24:58] [INFO] Carregados 0 alojamentos
+[2025-12-19 16:24:59] [INFO] Carregados 0 alojamentos
+[2025-12-19 16:25:12] [ERRO] Erro ao gerar estatísticas
+Exceção: The given key 'PrecoMinimo' was not present in the dictionary.
+StackTrace:    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at POO_GestaoAlojamentosTuristicos.UI.MainForm.BtnAtualizarEstatisticas_Click(Object sender, EventArgs e) in C:\Users\Paulinha Canuto\Desktop\IPCA\5 Semestre\POO\POO_GestaoAlojamentosTuristicos\POO_GestaoAlojamentosTuristicos\UI\MainForm.cs:line 555
+[2025-12-19 16:25:48] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:25:49] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:26:32] [INFO] Hotel adicionado: Meliá Maceió
+[2025-12-19 16:26:32] [INFO] Carregados 1 alojamentos
+[2025-12-19 16:27:16] [INFO] Hotel adicionado: Hotel Ponta Verde
+[2025-12-19 16:27:16] [INFO] Carregados 2 alojamentos
+[2025-12-19 16:27:43] [INFO] Estatísticas atualizadas
+[2025-12-19 16:28:57] [INFO] Aplicação encerrada
+[2025-12-19 16:28:57] [INFO] Aplicação encerrada normalmente
+[2025-12-19 16:29:01] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 16:29:01] [INFO] Aplicação iniciando...
+[2025-12-19 16:29:02] [INFO] Aplicação iniciada
+[2025-12-19 16:29:02] [INFO] Carregados 0 alojamentos
+[2025-12-19 16:29:02] [INFO] Carregados 2 clientes
+[2025-12-19 16:29:10] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:29:11] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:29:12] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:29:12] [INFO] Busca por 'Maceió' retornou 0 resultados
+[2025-12-19 16:29:16] [INFO] Aplicação encerrada
+[2025-12-19 16:29:16] [INFO] Aplicação encerrada normalmente
+[2025-12-19 17:00:35] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 17:00:35] [INFO] Aplicação iniciando...
+[2025-12-19 17:00:35] [INFO] Aplicação iniciada
+[2025-12-19 17:00:35] [INFO] Carregados 0 alojamentos
+[2025-12-19 17:00:35] [INFO] Carregados 2 clientes
+[2025-12-19 17:01:58] [INFO] Hotel adicionado: Hotel Ponta Verde
+[2025-12-19 17:01:58] [INFO] Carregados 1 alojamentos
+[2025-12-19 17:02:56] [INFO] Hotel adicionado: Meliá Maceió
+[2025-12-19 17:02:56] [INFO] Carregados 2 alojamentos
+[2025-12-19 17:03:07] [INFO] Estatísticas atualizadas
+[2025-12-19 17:06:03] [INFO] Apartamento adicionado: Ap da Lua 01
+[2025-12-19 17:06:03] [INFO] Carregados 3 alojamentos
+[2025-12-19 17:08:07] [INFO] Apartamento adicionado: Ap da Praia
+[2025-12-19 17:08:07] [INFO] Carregados 4 alojamentos
+[2025-12-19 17:08:16] [INFO] Estatísticas atualizadas
+[2025-12-19 17:08:30] [INFO] Busca por 'Marechal' retornou 0 resultados
+[2025-12-19 17:08:37] [INFO] Busca por 'Deodoro' retornou 0 resultados
+[2025-12-19 17:08:42] [INFO] Busca por 'Francês' retornou 0 resultados
+[2025-12-19 17:08:58] [INFO] Carregados 4 alojamentos
+[2025-12-19 17:09:34] [INFO] Aplicação encerrada
+[2025-12-19 17:09:34] [INFO] Aplicação encerrada normalmente
+[2025-12-19 17:22:52] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 17:22:52] [INFO] Aplicação iniciando...
+[2025-12-19 17:22:53] [INFO] Aplicação iniciada
+[2025-12-19 17:22:53] [INFO] Carregados 4 alojamentos
+[2025-12-19 17:22:53] [INFO] Carregados 2 clientes
+[2025-12-19 18:00:55] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 18:00:55] [INFO] Aplicação iniciando...
+[2025-12-19 18:00:55] [INFO] Aplicação iniciada
+[2025-12-19 18:02:15] [INFO] Cliente adicionado: Joana Silva
+[2025-12-19 18:03:26] [INFO] Hotel adicionado: Pratagy Resort
+[2025-12-19 18:03:57] [INFO] Aplicação encerrada
+[2025-12-19 18:03:57] [INFO] Aplicação encerrada normalmente
+[2025-12-19 18:04:34] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 18:04:34] [INFO] Aplicação iniciando...
+[2025-12-19 18:04:34] [INFO] Aplicação iniciada
+[2025-12-19 18:13:12] [INFO] Aplicação encerrada
+[2025-12-19 18:13:12] [INFO] Aplicação encerrada normalmente
+[2025-12-19 18:13:20] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 18:13:20] [INFO] Aplicação iniciando...
+[2025-12-19 18:13:20] [INFO] Aplicação iniciada
+[2025-12-19 18:13:39] [INFO] Aplicação encerrada
+[2025-12-19 18:13:39] [INFO] Aplicação encerrada normalmente
+[2025-12-19 19:32:26] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 19:32:26] [INFO] Aplicação iniciando...
+[2025-12-19 19:32:26] [INFO] Tela de login carregada
+[2025-12-19 19:32:38] [INFO] Login bem-sucedido: usuário 'Ana'
+[2025-12-19 19:32:40] [INFO] Abrindo sistema principal após login bem-sucedido
+[2025-12-19 19:32:41] [INFO] Aplicação iniciada
+[2025-12-19 19:32:46] [INFO] Aplicação encerrada
+[2025-12-19 19:32:46] [INFO] Aplicação encerrada normalmente
+[2025-12-19 19:32:53] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 19:32:53] [INFO] Aplicação iniciando...
+[2025-12-19 19:32:53] [INFO] Tela de login carregada
+[2025-12-19 19:33:04] [INFO] Login bem-sucedido: usuário 'Ana'
+[2025-12-19 19:33:06] [INFO] Abrindo sistema principal após login bem-sucedido
+[2025-12-19 19:33:06] [INFO] Aplicação iniciada
+[2025-12-19 23:50:00] [INFO] === Sistema de Gestão de Alojamentos Turísticos ===
+[2025-12-19 23:50:00] [INFO] Aplicação iniciando...
+[2025-12-19 23:50:01] [INFO] Tela de login carregada
+[2025-12-19 23:50:26] [INFO] Login bem-sucedido: usuário 'Ana'
+[2025-12-19 23:50:28] [INFO] Abrindo sistema principal após login bem-sucedido
+[2025-12-19 23:50:28] [INFO] Aplicação iniciada
+[2025-12-19 23:51:58] [INFO] Aplicação encerrada
+[2025-12-19 23:51:58] [INFO] Aplicação encerrada normalmente
